@@ -1,8 +1,7 @@
 ## Hi. I'm Changbeom Ha
 
 Visit my profile!  
-  
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">(https://changbeomha.github.io/My-profile/))
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"&link=https://changbeomha.github.io/My-profile/>
 
 - 👋 Hi, I’m @changbeomHa
 - 👀 I’m interested in ...
