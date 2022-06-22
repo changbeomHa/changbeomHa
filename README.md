@@ -1,6 +1,6 @@
 ## Hi, I'm Changbeom Ha
 
-Visit my profile page! 
+Visit my Blog! 
 </br>
 
 <a href="https://changbeomha.github.io/My-profile" target="_blank"><img src="https://img.shields.io/badge/Profile-181717?style=for-the-badge&logo=github&logoColor=white"></a>
