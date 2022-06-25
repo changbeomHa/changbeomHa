@@ -3,7 +3,7 @@
 Visit my Blog! 
 </br>
 
-<a href="https://changbeomha.github.io" target="_blank"><img src="https://img.shields.io/badge/Profile-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://changbeomha.github.io" target="_blank"><img src="https://img.shields.io/badge/BLOG-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 - 👋 Hi, I’m @changbeomHa
 - 👀 I’m interested in ...
