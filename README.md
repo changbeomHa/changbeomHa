@@ -7,8 +7,8 @@ Visit my Site!
 
 <a href="https://shimmer-whistle-453.notion.site/changbeomHa-13f53f9f6add468d9e99d7a18288df24" target="_blank"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=notion&logoColor=white"></a>
 
-- 🏫 경희대학교 석사과정 Human & Interactive Technology LAB
-- 🏫 경희대학교 소프트웨어융합학과
+- 🏫 (2024-present) KyungHee University MS : Human & Interactive Technology LAB
+- 🏫 (2018-2024) KyungHee University BS : Software Convergence
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
