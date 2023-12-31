@@ -1,6 +1,6 @@
 ### 🖊️ Hi, I'm Changbeom Ha 
-- 🏫 KyungHee University MS (Human & Interactive Technology LAB) - present
-- 🏫 KyungHee University BS (Software Convergence) - present
+- 🏫 KyungHee University MS (Software Convergence) - present
+- 🏫 KyungHee University BS (Software Convergence) 
 - 🖥️ Research : 
 
 #### ✅ About me
